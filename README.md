@@ -1,16 +1,70 @@
-## Hi there 👋
+# Tina Rahimi
 
-<!--
-**Tina200281/Tina200281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist / AI Engineer**
 
-Here are some ideas to get you started:
+## Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:yourname@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/yourprofile) ·
+[Website](https://yourname.github.io)
+
+---
+
+> *"I may never expand the frontiers of science, yet I strive to be a worthy student of those who have."*
+
+---
+
+## Skills & Expertise
+
+### Programming
+- Python
+- Java (familiar)
+
+### Machine Learning & Deep Learning
+- Scikit-learn
+- PyTorch
+- Transformers (Hugging Face)
+
+### LLM / Generative AI & RAG
+- LlamaIndex
+- Hugging Face Datasets
+- OpenAI API
+- Ollama
+- RAG pipelines
+- Embeddings
+- Prompt engineering
+
+### Backend & Model Serving
+- FastAPI
+
+### NLP & Text Processing
+- Hazm
+- NLTK
+
+### Data Analysis & Visualization
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Metabase
+
+### Databases & Search
+- SQL Server
+- MongoDB
+- Elasticsearch
+
+### Data Engineering & MLOps Tooling
+- Apache Airflow
+- Git
+- Docker
+
+### Testing / Automation
+- Selenium
+
+### LLM Observability & Evaluation
+- Arize Phoenix (Phoenix)
+
+### Core Knowledge
+- Machine Learning
+- Natural Language Processing (NLP)
+- Applied Linear Algebra
