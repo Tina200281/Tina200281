@@ -6,7 +6,7 @@
 
 [Email](mailto:tinarahimi.ce@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/tina200281) ·
-[Website](https://tinarahimice.github.io)
+[Website](https://tinarahimice.github.io/)
 
 ---
 
